@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmedfathy5
 - 👀 I’m interested in iOS development.
-- 🌱 I’m currently learning iOs
+- 🌱 I’m currently learning iOS
 - 💞️ I’m looking for opportunity to work.
 - 📫 How to reach me +201204315858
 - My Email: Ahmedfathyios1@gmail.com
