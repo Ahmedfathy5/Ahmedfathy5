@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Fathy</h1>
 <h3 align="center">I'm an iOS Software Engineer.</h3>
 <h3 align="center">📫 How to reach me +201204315858.</h3>
+<h3 align="center">📫 How to reach me **ahmedfathyios1@gmail.com**</h3>
 
 
 
-
-- 📫 How to reach me **ahmedfathyios1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
