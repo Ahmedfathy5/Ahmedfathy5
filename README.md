@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Fathy</h1>
 <h3 align="center">I'm an iOS Software Engineer.</h3>
-- 👋 Hi, I’m @Ahmedfathy5
-- 👀 I’m interested in iOS development.
-- 🌱 I’m an iOS Developer.
-- 💞️ I’m looking for opportunity to work.
-- 📫 How to reach me +201204315858
-- My Email: Ahmedfathyios1@gmail.com
+<h3 align="center">📫 How to reach me +201204315858.</h3>
+
 
 
 
