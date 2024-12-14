@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Ahmed Fathy</h1>
+<h3 align="center">I'm an iOS Software Engineer.</h3>
 - 👋 Hi, I’m @Ahmedfathy5
 - 👀 I’m interested in iOS development.
 - 🌱 I’m an iOS Developer.
@@ -5,8 +7,7 @@
 - 📫 How to reach me +201204315858
 - My Email: Ahmedfathyios1@gmail.com
 
-<h1 align="center">Hi 👋, I'm Ahmed Fathy</h1>
-<h3 align="center">I'm an iOS Software Engineer.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedfathy5&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfathy5" /> </p>
 
