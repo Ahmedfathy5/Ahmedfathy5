@@ -5,9 +5,6 @@
 
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedfathy5" alt="ahmedfathy5" /></a> </p>
-
 - 📫 How to reach me **ahmedfathyios1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
